@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: ${DB_CONNECTION:jdbc:mysql://localhost:3306/condominium?useMysqlMetadata=true&serverTimezone=America/Guayaquil&allowPublicKeyRetrieval=false}
+    username: ${DB_USER:root}
+    password: ${DB_PWD:12qwaszx}
