@@ -1,5 +1,5 @@
 db:
   datasource:
     url: jdbc:mysql://localhost:3306/condominium?useMysqlMetadata=true&serverTimezone=America/Guayaquil&allowPublicKeyRetrieval=false
-    username: root
+    username: roott
     password: 12qwaszx
